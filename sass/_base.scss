@@ -1,0 +1,24 @@
+$color-soft-blue: hsl(215, 51%, 70%);
+$color-cyan: hsl(178, 100%, 50%);
+$color-main-bg: hsl(217, 54%, 11%);
+$color-card-bg: hsl(216, 50%, 16%);
+$color-line: hsl(215, 32%, 27%);
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+body {
+  min-height: 100vh;
+  font-family: "Outfit", sans-serif;
+  color: $color-soft-blue;
+  background-color: $color-main-bg;
+  display: grid;
+  place-content: center;
+}
