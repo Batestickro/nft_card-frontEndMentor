@@ -1,8 +1,9 @@
 $color-soft-blue: hsl(215, 51%, 70%);
-$color-cyan: hsl(178, 100%, 50%);
+$color-cyan: rgb(0, 255, 247);
 $color-main-bg: hsl(217, 54%, 11%);
 $color-card-bg: hsl(216, 50%, 16%);
 $color-line: hsl(215, 32%, 27%);
+$transition-color: all .7s ease-in .25s;
 
 * {
   margin: 0;
