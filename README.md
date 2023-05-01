@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [code url](https://github.com/Batestickro/nft_card-frontEndMentor)
+- Live Site URL: [NFT card Component](https://batestickro.github.io/nft_card-frontEndMentor/)
 
 ## My process
 
